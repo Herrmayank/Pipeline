@@ -54,8 +54,8 @@ import matplotlib.pyplot as plt
 
 #grid
 # Given values
-r = 1.0  # Replace with your actual value
-z0 = 2.0  # Replace with your actual value
+r = 3.0  # Replace with your actual value
+z0 = 4.5  # Replace with your actual value
 
 # Create a figure and axis
 fig, ax = plt.subplots()
