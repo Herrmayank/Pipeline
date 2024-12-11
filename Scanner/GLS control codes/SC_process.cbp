@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SC_process" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SC_process" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SC_process" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../raylase_includes/include/ClientAPI.h" />
+		<Unit filename="../raylase_includes/include/EventAPI.h" />
+		<Unit filename="../raylase_includes/include/FontAPI.h" />
+		<Unit filename="../raylase_includes/include/GpioAPI.h" />
+		<Unit filename="../raylase_includes/include/HeadCorrectionAPI.h" />
+		<Unit filename="../raylase_includes/include/InternalAPI.h" />
+		<Unit filename="../raylase_includes/include/LaserAPI.h" />
+		<Unit filename="../raylase_includes/include/ListAPI.h" />
+		<Unit filename="../raylase_includes/include/MotFAPI.h" />
+		<Unit filename="../raylase_includes/include/MotorAPI.h" />
+		<Unit filename="../raylase_includes/include/PowerCorrectionAPI.h" />
+		<Unit filename="../raylase_includes/include/ProcessAPI.h" />
+		<Unit filename="../raylase_includes/include/ScannerAPI.h" />
+		<Unit filename="../raylase_includes/include/ScannerCommunicationAPI.h" />
+		<Unit filename="../raylase_includes/include/SerialPortAPI.h" />
+		<Unit filename="../raylase_includes/include/SfioAPI.h" />
+		<Unit filename="../raylase_includes/include/SystemAPI.h" />
+		<Unit filename="../raylase_includes/include/VariableAPI.h" />
+		<Unit filename="../raylase_includes/include/Version.h" />
+		<Unit filename="../raylase_includes/include/rlAPI.h" />
+		<Unit filename="../raylase_includes/include/rlTypes.h" />
+		<Unit filename="../raylase_includes/include/rltbTraceBufferConfig.h" />
+		<Unit filename="../raylase_includes/lib/x64/RAYLASE.SPICE3.Native.ClientLib.dll" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

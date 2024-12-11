@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1700672267 source:e:\masterarbeit\sc_process\main.cpp
+	<stdio.h>
+	<math.h>
+	"../raylase_includes/include/ClientAPI.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\clientapi.h
+	"rlTypes.h"
+	"FontAPI.h"
+	"GpioAPI.h"
+	"LaserAPI.h"
+	"ListAPI.h"
+	"EventAPI.h"
+	"MotFAPI.h"
+	"MotorAPI.h"
+	"ProcessAPI.h"
+	"VariableAPI.h"
+	"HeadCorrectionAPI.h"
+	"PowerCorrectionAPI.h"
+	"ScannerAPI.h"
+	"ScannerCommunicationAPI.h"
+	"SystemAPI.h"
+	"SfioAPI.h"
+	"SerialPortAPI.h"
+	"InternalAPI.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\rltypes.h
+	"rlAPI.h"
+	"rltbTraceBufferConfig.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\rlapi.h
+	<windows.h>
+	<time.h>
+	<cstdint>
+	<stdint.h>
+
+1663141118 e:\masterarbeit\raylase_includes\include\rltbtracebufferconfig.h
+
+1663141116 e:\masterarbeit\raylase_includes\include\fontapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\gpioapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\laserapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\listapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\eventapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\motfapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\motorapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\processapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\variableapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\headcorrectionapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\powercorrectionapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\scannerapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\scannercommunicationapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\systemapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\sfioapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\serialportapi.h
+	"rlTypes.h"
+
+1663141116 e:\masterarbeit\raylase_includes\include\internalapi.h
+	"rlTypes.h"
+
